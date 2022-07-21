@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/Movie.h
+string
+-
+iostream
+-
+
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/MovieDatabase.cpp
+fstream
+-
+sstream
+-
+MovieDatabase.h
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/MovieDatabase.h
+
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/MovieDatabase.h
+vector
+-
+algorithm
+-
+Movie.h
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/Movie.h
+
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/main.cpp
+iostream
+-
+MovieDatabase.h
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/MovieDatabase.h
+Movie.h
+F:/Documents/UEA/Programming 2/Coursework C++/C++ Project/Movie.h
+

@@ -1,0 +1,9 @@
+"Indiana Jones and the Last Crusade",1989,"PG-13","Action/Adventure/Fantasy",127,0
+"The Great Dictator",1940,"APPROVED","Comedy/Drama/War",125,0
+"This Is Spinal Tap",1984,"R","Comedy/Music",82,0
+"Casablanca",1942,"PG","Drama/Romance/War",102,0
+"The Good, the Bad and the Ugly",1966,"APPROVED","Western",161,0
+"Memento",2000,"R","Mystery/Thriller",113,0
+"Nights of Cabiria",1957,"NOT RATED","Drama",110,0
+"Aliens",1986,"R","Action/Adventure/Sci-Fi",137,0
+"The Truman Show",1998,"PG","Comedy/Drama/Sci-Fi",103,0
